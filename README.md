@@ -1,6 +1,3 @@
-![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
-
-
 <h1 align="center">Sup lads👋, the name's Yazid</h1>
 <h3 align="center">An undergraduate Frontend Developer from Indonesia</h3>
 
@@ -35,3 +32,5 @@
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilfloppa69&" alt="lilfloppa69" /></p>
+
+![snake gif](https://github.com/lilfloppa69/lilfloppa69/blob/output/github-contribution-grid-snake.svg)
