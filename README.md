@@ -1,3 +1,5 @@
+![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
+
 <h1 align="center">Sup lads👋, the name's Yazid</h1>
 <h3 align="center">An undergraduate Frontend Developer from Indonesia</h3>
 
