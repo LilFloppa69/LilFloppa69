@@ -1,11 +1,11 @@
 <h1 align="center">Sup lads👋, the name's Yazid</h1>
 <h3 align="center">An undergraduate Frontend Developer from Indonesia</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilfloppa69&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilfloppa69" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilFloppa69&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LilFloppa69" /></p>
 
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilfloppa69&theme=tokyonight" alt="lilfloppa69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilFloppa69&theme=tokyonight" alt="lilfloppa69" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilfloppa69&label=Profile%20views&color=0e75b6&style=flat" alt="lilfloppa69" /> </p>
 
