@@ -1,5 +1,6 @@
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
 
+
 <h1 align="center">Sup lads👋, the name's Yazid</h1>
 <h3 align="center">An undergraduate Frontend Developer from Indonesia</h3>
 
@@ -31,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilfloppa69&show_icons=true&locale=en&layout=compact" alt="lilfloppa69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&locale=en" alt="lilfloppa69" /></p>
+![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilfloppa69&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilfloppa69&" alt="lilfloppa69" /></p>
