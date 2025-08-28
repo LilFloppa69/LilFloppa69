@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilfloppa69" alt="lilfloppa69" /></a> </p>
 
-- 🌱 I’m currently learning **Three, React,Vue, Node and a bit of Machine Learning**
+- 🌱 I’m currently learning **Three, React,Flutter Node and Django**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
